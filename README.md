@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ayush Parida 👋⚛️</h1>
+<h1 align="center">Hey, I'm Ayush Parida 😎⚛️</h1>
 
 <p align="center">
   <em>Full-Stack Developer × Data & ML Engineer — building things that actually work™</em>
