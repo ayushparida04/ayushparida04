@@ -31,7 +31,7 @@
 
 ## 💼 Experience
 
-**🔷 Microsoft Learn Student Ambassador (Beta)** · *Aug 2025 – July 2026*
+**🔷 Microsoft Learn Student Ambassador (Beta)** · *Aug 2025 – Jul 2026*
 > Led 5+ Azure AI & Cloud workshops for 50+ students · Delivered GitHub Copilot labs boosting project deployment rates by 35% · Selected for Beta Level for leadership in AI and cloud
 
 **🔷 USF × Microsoft Student Ambassador** · *May 2025 – Dec 2025*
